@@ -295,7 +295,10 @@
 
 
 
-15 =>
+15 =>   
+Instalamos npm install react-router-dom
+npm install react-router-dom@6
+
 16 =>
 17 =>
 18 =>

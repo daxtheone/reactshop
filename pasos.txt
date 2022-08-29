@@ -377,6 +377,18 @@ module.exports = {
 
 
 17 =>
+
+npm install axios
+npm install @babel/plugin-transform-runtime
+{
+  "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
 18 =>
 19 =>
 20 =>
